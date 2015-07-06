@@ -1,2 +1,2 @@
 # Mutiny-Games.github.io
-The Mutiny Games Git Pages
+The Mutiny Games Git Pages.
